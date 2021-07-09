@@ -1,10 +1,10 @@
 <template>
   <div>
-    <!-- <hero /> -->
-    <!-- <features /> -->
-    <!-- <teasers /> -->
-    <!-- <prices /> -->
-    <!-- <call-to-action /> -->
+    <hero />
+    <features />
+    <teasers />
+    <prices />
+    <call-to-action />
   </div>
 </template>
 
